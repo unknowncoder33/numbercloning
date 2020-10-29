@@ -1,4 +1,4 @@
-@@ -246,67 +246,67 @@
+
 		login()
 	os.system('clear')
 	print logo
